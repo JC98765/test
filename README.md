@@ -77,3 +77,4 @@ If you would like to add something to ManualVerification, create a pull request.
 
 ## Support
 If you need any help with this bot, you can join my [discord server](https://discord.com/invite/AY7WHt4Nrw).
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
